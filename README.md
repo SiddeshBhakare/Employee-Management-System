@@ -9,18 +9,18 @@ It is a  full-stack web application that is a basic Employee Management Applicat
   5. View Employee
 
 # Tools and Technologies Used
-# Server-side tools and technologies used
-  Spring Boot 2 +
-  SpringData JPA ( Hibernate)
-  Maven 3.2 +
-  JDK 1.8
-  Embedded Tomcat 9.0
-  MySQL Database
+Server-side tools and technologies used
+  1. Spring Boot 2 +
+  2. SpringData JPA ( Hibernate)
+  3. Maven 3.2 +
+  4. JDK 1.8
+  5. Embedded Tomcat 9.0
+  6. MySQL Database
 
-# Client-side tools and technologies used
-  React
-  Modern JavaScript (ES6)
-  NodeJS and NPM
-  VS Code IDE
-  Create React App CLI
-  Bootstrap 4.5 and Axios HTTP Library
+Client-side tools and technologies used
+  1. React
+  2. Modern JavaScript (ES6)
+  3. NodeJS and NPM
+  4. VS Code IDE
+  5. Create React App CLI
+  6. Bootstrap 4.5 and Axios HTTP Library
